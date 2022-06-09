@@ -5,6 +5,6 @@
     <title>Jebac cie</title>
 </head>
 <body>
-    <h1 allign="center">Jebac cie</h1>
+    <h1 text-align:center>Jebac cie</h1>
 </body>
 </html>
