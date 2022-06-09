@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Page title</title>
+    <title>Jebac cie</title>
 </head>
 <body>
-    <h1>Jebac cie</h1>
+    <h1 allign="center">Jebac cie</h1>
 </body>
 </html>
