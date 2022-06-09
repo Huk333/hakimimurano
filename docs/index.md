@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Dowody na julka</h1>
-    <p>1. Debil</p> <br>
+    <p>1. Debil</p>
     <p>2. Diler</p>
     <a href="https://ibb.co/zS34Nd0"><img src="https://i.ibb.co/zS34Nd0/IMG-20220609-152122.jpg" alt="IMG-20220609-152122" border="0"></a>
 </body>
