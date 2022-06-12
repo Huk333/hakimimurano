@@ -64,9 +64,17 @@ a:active {
 }
 
 textarea {
-  opacity: 30%;
+  background: transparent;
+  border: 1px black solid;
+  font-family: "Roboto", sans-serif;
 }
 
 input {
-  opacity: 30%;
+  background: transparent;
+  border: 1px black solid;
+  font-family: "Roboto", sans-serif;
+}
+
+label {
+  font-family: "Roboto", sans-serif;
 }
