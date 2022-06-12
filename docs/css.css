@@ -43,11 +43,15 @@ h1 {
 }
 
 p {
+  color: rgb(247, 249, 249);
+  font-size: 1.5rem;
   font-family: "Roboto", sans-serif;
 }
 
 li {
   font-family: "Roboto", sans-serif;
+  font-size: 1.5rem;
+  color: white;
 }
 
 a,
@@ -59,8 +63,9 @@ a:active {
 }
 
 #info {
-  color: blue;
+  color: rgb(45, 45, 251);
   text-decoration: underline;
+  font-size: 1.2rem;
 }
 
 textarea {
@@ -77,4 +82,30 @@ input {
 
 label {
   font-family: "Roboto", sans-serif;
+}
+.menu {
+  border: 5px whitesmoke solid;
+  list-style: none;
+  padding-inline-start: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  text-align: center;
+  padding: 1rem;
+  color: white;
+}
+.menu_li {
+  font-size: 2rem;
+}
+.menu_li:hover {
+  font-size: 2.3rem;
+  color: rgb(200, 200, 200);
+}
+#title {
+  margin-top: 0;
+  font-size: 4rem;
+  text-align: center;
+  border: 5px whitesmoke solid;
+  padding: 1rem;
+  margin-bottom: 0;
+  color: white;
 }
